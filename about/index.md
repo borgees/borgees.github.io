@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 tags: [about]
 comments: false
 ---
@@ -32,7 +32,7 @@ To see the [Blockchain Porto Alegre Meetup](https://www.meetup.com/pt-BR/Blockch
 
 ## Getting Started with Blockchain
 
-To learn more about Blockchain you can see this [TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) by Don Tapscott: "How the blockchain is changing money and business"
+To learn more, you can see this [TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) by Don Tapscott: "How the blockchain is changing money and business"
 
 If you are a developer you can understand the Bitcoin Protocol and start building Bitcoin-based applications.
 

@@ -1,6 +1,6 @@
 # Site
 title:              Fabio Borges
-bio:                'I am an entrepreneur and an airplane pilot, but I like to work as a developer.'
+bio:                'I am an entrepreneur and an airplane pilot, but I work as a developer.'
 description:        "I consider myself as a good father and I love my sons. As a developer I really love Machine Learning and also I am a Blockchain enthusiast."
 reading_time:       true
 words_per_minute:   200
@@ -49,7 +49,7 @@ linkedin:          borgees
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
