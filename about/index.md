@@ -36,5 +36,5 @@ To learn more, you can see this [TED Talk](https://www.ted.com/talks/don_tapscot
 
 If you are a developer you can understand the Bitcoin Protocol and start building Bitcoin-based applications.
 
-[Bitcoin Developer Guide](https://github.com/TaylanTatli/Moon){: .btn}
+[Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain){: .btn}
 
