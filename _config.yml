@@ -4,7 +4,7 @@ bio:                'An Entrepreneur and Airplane Pilot that work as a Developer
 description:        "I really love Machine Learning and I am a Blockchain enthusiast."
 reading_time:       true
 words_per_minute:   200
-logo:               'https://avatars3.githubusercontent.com/u/16531799?v=3&s=466'
+logo:               'assets/img/FabioBorges.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
