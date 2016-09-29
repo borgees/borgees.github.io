@@ -1,37 +1,42 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Features about me:
+* Father
+* Entrepreneur
+* Airplane Pilot
+* Developer
+* Data Science Student
+* Machine Learning Lover
+* Blockchain Enthusiast
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## Preview of what I'm doing:
+
+Bitcoin: Much more than a Cryptocurrency 
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://scontent-grt2-1.xx.fbcdn.net/v/t1.0-9/14291680_330692173949328_7195348211405518256_n.jpg?oh=ce3696d7b9f3e60ee58878d913827592&oe=586EF32B
+    https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/4/c/d/highres_454130381.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="VCore and Blockchain" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+To see [VCore](http://vcore.it), a startup that I am a cofounder and CDO. 
 
-## Getting Started
+To see the [Blockchain Porto Alegre Meetup](https://www.meetup.com/pt-BR/Blockchain-Porto-Alegre/), organized by me.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+## Getting Started with Blockchain
+
+To learn more about Blockchain you can see this [TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) 
+
+by Don Tapscott: "How the blockchain is changing money and business"
+
+
+[Bitcoin Developer Guide](https://github.com/TaylanTatli/Moon){: .btn}
+
+To understand the Bitcoin Protocol and start building Bitcoin-based applications.
