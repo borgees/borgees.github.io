@@ -1,9 +1,10 @@
 ---
-layout: project
+layout: page
 title: Projects
-excerpt: "A List of Projects"
+tags: [projects]
 comments: false
 ---
+
 
 ## What I am doing
 
